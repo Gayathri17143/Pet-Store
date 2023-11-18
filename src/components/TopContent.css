@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&display=swap');
+
+.topContent {
+   /* position: fixed; */
+   color: #fff;
+}
+
+/* .topContent_0 {
+    position: absolute;
+    top: 100px;
+    right: 100px; 
+} */
+
+
+
+.topContent_0 a button {
+   margin-top: 20px;
+   text-align: left;
+   margin-right: 2%;
+   /* padding-left: 5px; */
+   border: none;
+   /* border-radius: 2px; */
+   /* outline: none; */
+}
+
+.topContent_0 h1 {
+   font-size: 60px;
+   font-family: "Montserrat", sans-serif;
+   margin: 0%;
+   padding: 7% 0 0 41%;
+}
+
+.topContent__downloadButton {
+   /* color:#00274b; */
+   background-color: #CFF1FF;
+   font-size: 14px;
+   padding: 15px 25px;
+   font-family: "Montserrat", sans-serif;
+   font-weight: 600;
+   cursor: pointer;
+   color: #1a70a1;
+   border-radius: 30px;
+   margin-left: 20%;
+}
+
+.topContent__downloadButton:hover {
+   /* color: #fff; */
+   /* background-color: #f64c08; */
+   font-weight: 700;
+   transform: scale(1.12);
+}
+
+/* .topContent__workButton {
+    color:#000;
+    border: 1px solid #fff!important;
+    background-color:transparent;
+    font-size: 14px;
+    padding: 9px 45px;
+    font-family: "Montserrat",sans-serif;
+    font-weight: 300;
+    cursor: pointer;
+ } */
+
+
+/* .topContent__workButton:hover {
+    color: #000;
+    background-color: #ccc;
+    font-weight: 600;
+ } */
+.experience__info {
+   background: url("../assets/ricky.jpg");
+   background-position: center;
+   background-size: cover;
+   height: 500px;
+   background-color: #1970A0;
+   /* z-index: 1000px; */
+   width: 100%;
+   text-align: center;
+
+
+
+   /* display: flex; */
+   /* align-items: center; */
+   /* justify-content: end; */
+}
+
+@media screen and (max-width:1366px) {
+   .topContent_0 h1 {
+      font-size: 47px;
+   }
+   .experience__info {
+      height: 350px;
+   }
+}
+@media screen and (max-width:1280px) {
+   .topContent_0 h1 {
+      font-size: 40px;
+   }
+}

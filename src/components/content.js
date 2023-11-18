@@ -1,0 +1,30 @@
+// const productData =[
+//     {
+//         id:1,
+//         name:"massdrop",
+//         image:"https://thumbs.dreamstime.com/b/golden-retriever-dog-sitting-isolated-white-24750809.jpg",
+//         price:220,
+//         rating:5,
+//         timeLeft:27,
+//         totalSales:479
+//     },
+//     {
+//         id:2,
+//         name:"massdrop",
+//         image:"https://thumbs.dreamstime.com/b/golden-retriever-dog-sitting-isolated-white-24750809.jpg",
+//         price:230,
+//         rating:5,
+//         timeLeft:24,
+//         totalSales:779
+//     },
+//     {
+//         id:3,
+//         name:"massdrop",
+//         image:"https://thumbs.dreamstime.com/b/golden-retriever-dog-sitting-isolated-white-24750809.jpg",
+//         price:240,
+//         rating:5,
+//         timeLeft:21,
+//         totalSales:747
+//     }
+// ];
+// export default productData;
